@@ -1,0 +1,23 @@
+.articleWrapper{
+    text-align: center;
+}
+
+.linkBtn{
+    text-decoration: none;
+    border: 1px solid gray;
+    padding: 10px 25px;
+    border-radius: 10px;
+    margin: 0 10px;
+    color: rgb(20, 80, 148);
+    font-family: 'Lalezar';
+    
+}
+ .btnContainer{
+    padding: 20px 0;
+
+ }
+ .linkBtn:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(159, 159, 211);
+    transition: .5s;
+ }
